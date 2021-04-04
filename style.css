@@ -123,6 +123,12 @@ html, body {
     
     .body1 {
         grid-column: span 6;
+        background-image: url(./img.png);
+        color: rgba(255, 255, 255, 0);
+        object-fit:contain;
+        background-repeat: no-repeat;
+        background-position:center;
+        background-size: cover;
     }
 
     .ad2 {
@@ -256,6 +262,11 @@ html, body {
 
     .body2 {
         grid-column: span 12;
+        background-image: url(./img.png);
+        color: rgba(255, 255, 255, 0);
+        object-fit: cover;
+        background-position:center;
+        background-size: cover;
     }
     
     
